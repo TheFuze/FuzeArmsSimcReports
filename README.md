@@ -1,0 +1,2 @@
+# FuzeArmsSimcReports
+.
